@@ -1,0 +1,48 @@
+body{
+    background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border: 1px;
+    font-size:34px;
+    height: 65px;
+    width: 344px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #978fa0;
+    width: 78px;
+    height: 69px;
+    margin: 4px;
+}
+
+.calculator{ 
+    border: 1px;
+    background: #00d2ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #928DAB, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #928DAB, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding: 10px;
+    
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
